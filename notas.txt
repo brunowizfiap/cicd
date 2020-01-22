@@ -3,11 +3,11 @@ nota 2: 10,5 nao mexe aqui fdp!
 nota 3: 10 nao mexe aqui fdp!
 nota 4: 10 nao mexe aqui fdp!
 
-Nota 1:
+Nota 1: zero
 
-Nota 2:
+Nota 2: oito
 
-Nota 3:
+Nota 3: zero
 
 Nota 4:
 
