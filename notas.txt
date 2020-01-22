@@ -1,12 +1,12 @@
-alteracao do .....
-nota 1: 10,01 nao mexe aqui fdp!
-nota 2: 10,5 nao mexe aqui fdp!
-nota 3: 10 nao mexe aqui fdp!
-nota 4: 10 nao mexe aqui fdp!
+Nota 1: core-devops->zero
+Nota 2: cicd->oito
+Nota 3: bpm->zero
+Nota 4: microservices->zero
+Nota 5: digital-manage->zero
 
-Nota 1: zero
-
-Nota 2: oito
+nota 10 : core-devops->)
+nota 7  :cicd->|
+nota 5  :microservices->(
 
 Nota 3: zero
 
