@@ -20,4 +20,9 @@ nota 7  :|
 nota 5  :(
 
 
+Edinaldo 
+	nota 10
+	nota 100
+	nota 1000
+
 CAEIRO editando abaixo da Nota 5.
