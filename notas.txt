@@ -1,13 +1,13 @@
-nota 1: 9,0
-nota 2: 8,5
-nota 3: 10,0
-nota 4: 9,5
+nota 1: 10,01 nao mexe aqui fdp!
+nota 2: 10,5 nao mexe aqui fdp!
+nota 3: 10 nao mexe aqui fdp!
+nota 4: 10 nao mexe aqui fdp!
 
-Nota 1:
+Nota 1: zero
 
-Nota 2:
+Nota 2: oito
 
-Nota 3:
+Nota 3: zero
 
 Nota 4:
 
@@ -17,3 +17,6 @@ nozima
 nota 10 :)
 nota 7  :|
 nota 5  :(
+
+
+CAEIRO editando abaixo da Nota 5.
