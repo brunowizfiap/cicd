@@ -14,4 +14,3 @@ nota 10 : core-devops->)
 nota 7  :cicd->|
 nota 5  :microservices->(
 
-
