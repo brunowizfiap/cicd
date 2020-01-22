@@ -1,7 +1,7 @@
-nota 1: 0,01
-nota 2: 0,5
-nota 3: 0
-nota 4: 0
+nota 1: 10,01 nao mexe aqui fdp!
+nota 2: 10,5 nao mexe aqui fdp!
+nota 3: 10 nao mexe aqui fdp!
+nota 4: 10 nao mexe aqui fdp!
 
 Nota 1:
 
